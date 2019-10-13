@@ -1,1 +1,1 @@
-This readme file used for my own purpose.
+Dotfiles here used for my own purpose.
